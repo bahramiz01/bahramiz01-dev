@@ -9,11 +9,10 @@ I'm a passionate developer who enjoys building real‑world projects, learning n
 ## 🔧 Skills & Technologies
 
 * **Languages:** JavaScript, TypeScript
-* **Web Technologies:** HTML, CSS, TailwindCSS, Sass
+* **Web Technologies:** HTML,CSS, TailwindCSS, Sass
 * **Frameworks & Libraries:** Vue.js, React
 * **Tools:** Git, GitHub, Postman
-* **Databases:** MySQL
-* **Other:** REST APIs, MVC Architecture
+* **Other:** REST APIs,Axois
 
 
 ---
